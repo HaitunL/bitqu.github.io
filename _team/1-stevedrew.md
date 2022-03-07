@@ -1,5 +1,5 @@
 ---
-title: "Steve Drew"
+title: "Steve D"
 excerpt: "Advisor"
 
 header:
@@ -13,4 +13,4 @@ sidebar:
 
 ---
 
-Steve Drew received his Ph.D. in Electrical and Computer Engineering from Carleton University. Steve has a broad research interest including digital assets management and trading, AIOps, edge computing, and cloud-native initiatives for blockchain services. 
+Steve received his Ph.D. in Electrical and Computer Engineering from Carleton University. Steve has a broad research interest including digital assets management and trading, AIOps, edge computing, and cloud-native initiatives for blockchain services. 
