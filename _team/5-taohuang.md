@@ -1,5 +1,5 @@
 ---
-title: "Tao Huang"
+title: "Tao H"
 excerpt: "Senior Software Engineer"
 
 header:
@@ -13,4 +13,4 @@ sidebar:
 
 ---
 
-Tao Huang is Senior Software Engineer of BitQubic. He received his Bachelor's Degree from Tianjin University and Master's Degree from Nankai University. Tao has wide experience in banking IT system implementation. Now he is contributing to the next generation products in FinTech industry.
+Tao is Senior Software Engineer of BitQubic. He received his Bachelor's Degree from Tianjin University and Master's Degree from Nankai University. Tao has wide experience in banking IT system implementation. Now he is contributing to the next generation products in FinTech industry.
